@@ -1,3 +1,3 @@
-*happiness
-*freedom
-*mindfullness
+* happiness
+* freedom
+* mindfullness
