@@ -8,3 +8,11 @@ _includes/01-name.md.
 # good
 #
 
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
