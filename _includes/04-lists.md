@@ -1,0 +1,3 @@
+- happiness
+- freedom
+- mindfullness
